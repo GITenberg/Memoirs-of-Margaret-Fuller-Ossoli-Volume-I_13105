@@ -11,7 +11,7 @@ creator:
     - Ossoli, Margaret Fuller
     - Fuller, S. Margaret (Sarah Margaret)
     - Fuller, Sara Margarita
-    birthdate: &id001 1810
+    birthdate: 1810
     deathdate: 1850
     gutenberg_agent_id: '2829'
     url: http://www.gutenberg.org/2009/agents/2829
@@ -29,18 +29,20 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
   - agent_name: Channing, W. H. (William Henry)
     alias: Channing, William Henry
-    birthdate: *id001
+    birthdate: 1810
     deathdate: 1884
     gutenberg_agent_id: '38364'
     url: http://www.gutenberg.org/2009/agents/38364
   - agent_name: Clarke, James Freeman
     alias: Clarke, J. F. (James Freeman)
-    birthdate: *id001
+    birthdate: 1810
     deathdate: 1888
     gutenberg_agent_id: '5630'
     url: http://www.gutenberg.org/2009/agents/5630
     wikipedia: http://en.wikipedia.org/wiki/James_Freeman_Clarke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13105#Memoirs-of-Margaret-Fuller-Ossoli-Volume-I
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
